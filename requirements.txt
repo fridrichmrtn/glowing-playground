@@ -1,0 +1,6 @@
+wheel
+sklearn
+numpy
+matplotlib
+jupyter
+pygam
