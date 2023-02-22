@@ -1,0 +1,8 @@
+jupyter
+requests
+webdriver-manager
+selenium
+beautifulsoup4
+pandas
+lxml
+html5lib 
