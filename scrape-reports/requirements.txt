@@ -1,0 +1,5 @@
+requests
+jupyter
+urllib3
+matplotlib
+seaborn
